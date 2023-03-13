@@ -1,0 +1,172 @@
+IN THE CIRCUIT COURT FOR BALTIMORE CITY, MARYLAND
+
+MARK ANTONY
+123 Main Street
+Baltimore, Maryland 21218
+
+and
+
+CLEO ANTONY
+123 Main Street
+Baltimore, Maryland 21218
+Plaintiffs,
+v.
+I-FLOW CORPORATION
+20202 Windrow Drive
+Lake Forest, California 92630
+
+SERVE: James R. Talevich
+20202 Windrow Drive
+Lake Forest, California 92630
+
+and
+
+DJO INCORPORATED
+1430 Decision Street
+Vista, California 92081
+
+SERVE: National Registered Agents, Inc.
+2875 Michelle Dr; Suite 100
+Irvine, California 92606
+
+and
+
+ABBOTT LABORATORIES
+100 Abbott Park Road
+Abbott Park, Illinois 60064-3500
+
+SERVE: Laura J. Schumacher
+Abbott Laboratories
+100 Abbott Park Road
+Abbott Park, Illinois 60064-3500
+
+and
+
+HOSPIRA, INC.
+275 North Field Drive
+Lake Forest, Illinois 60045
+
+SERVE: C T Corporation System
+208 So Lasalle Street
+Suite 814
+Chicago, Illinois 60604
+Defendants
+
+Case No ___________________
+CIVIL COMPLAINT & DEMAND FOR JURY TRIAL
+
+PLAINTIFFS’ COMPLAINT AND JURY DEMAND
+
+Plaintiffs, MARK ANTONY and CLEO ANTONY, by and through their undersigned attorneys, Ronald V. Miller, John J. Cord and Miller & Zois, LLC, sue the Defendants, and allege as follows:
+
+INTRODUCTION
+
+Pain pumps are medical devices that are used to manage post-operative pain. Orthopedic surgeons use pain pumps after surgery to deliver, by way of a catheter, continuous doses of pain relief medication directly into the shoulder. The pump delivers anesthetic drugs for a few days after surgery.
+The pumps first used in the 1990s had limited amounts of anesthetic, and surgeons placed the pain pump catheter in the muscle or outside the shoulder joint. Later on, however, the manufacturers increased the anesthetic capacity of the pumps (high volume), and with the knowledge and encouragement of the pain pump manufacturers, surgeons began to insert the catheter directly into the shoulder joint space.
+Continuous injection of these anesthetics directly into the shoulder can cause serious and permanent damage to the shoulder joint cartilage. The damage occurs when the anesthetic kills the chondrocytes (shoulder cartilage cells) which causes cartilage to degenerate progressively. Patients injured by pain pumps develop a condition called "chondrolysis," which is the complete or nearly complete loss of cartilage in the shoulder joint. It is an irreversible, disabling, and extremely painful condition. These patients typically require additional surgeries, including complete shoulder joint replacement. As written in the medical literature, “the prognosis for these shoulders is grim.”
+The pain pump companies manufactured and marketed these devices without doing a single study to determine the safety of high-volume pain pumps, or what damage could be caused when physicians placed the catheter directly into the shoulder. The manufacturers of the anesthetics, similarly, did nothing to investigate whether the continuous infusion of their drugs into shoulder was harmful. Instead, they encouraged orthopedic surgeons to use the pumps and anesthetics, in tandem, in an untested and dangerous manner.
+Indeed, several pain pump manufacturers sought approval from the Food and Drug Administration (FDA) for the placement of the catheter in the shoulder joint space beginning in the late 1990s. For lack of safety information, the FDA failed to clear their applications for orthopedic and intra-articular placement on multiple occasions. Yet, the manufacturers of the pumps and anesthetics chose not to advise physicians about these dangers, not to advise patients of these risks, not to tell physicians that their FDA applications were rejected, and continued to sell and market these pumps with reckless indifference–all to the detriment of thousands of patients generally, and the Plaintiff, Mark Antony, in particular.
+By 2004, multiple scholarly studies had been published demonstrating the toxic effects of pain pump anesthetics on shoulder cartilage. By late 2005 and early 2006, the pain pump industry knew that Dr. Charles L. Beck, an orthopedic surgeon, was reporting to the scientific community some very disturbing findings. He found a significant number of his shoulder patients developed chondrolysis following intra-articular placement of a pain pump catheter, and he associated these injuries with the use of intra-articular pain pumps.
+The pain pump companies, and the drug companies whose anesthetics filled these pumps, manufactured and marketed these devices and drugs without ever studying whether they were safe for use in the shoulder joint. With reckless indifference to the health and safety of these patients, these defendants chose to place profits over safety by choosing not to do those studies necessary to determine the dangers of their products so they could warn physicians about the proper and improper use of surgical pain pumps.
+Had the defendant manufacturers conducted those studies that the FDA required back in the 1990s, as they were obligated to do, they would easily have determined that exposure to pain pump anesthetics over time in the shoulder is exceedingly dangerous and contraindicated. Had they performed the appropriate tests timely, Mark Antony’s physicians would not have used a pain pump, and she would not have suffered the devastating effects of shoulder chondrolysis.
+PARTIES
+
+Plaintiff, Mark Antony, is a citizen of the State of Maryland residing at 123 Main Street, Baltimore, Maryland 21218.
+Plaintiff, Cleo Antony, is a citizen of the State of Maryland residing at 123 Main Street, Baltimore, Maryland 21218.
+At all times referenced hereto, Mark Antony and Cleo Antony were, and continue to be, husband and wife.
+Defendants I-Flow Corporation and DJO Incorporated, (“Manufacturing Defendants”) design and manufacture products called "pain pumps," continuous infusion anesthetic medical devices intended to deliver, via catheter, continuous doses of pain relief medication directly into the shoulder joint space. The pain pumps deliver anesthetic pain medication directly into the operative site for 48 hours or more immediately following shoulder surgery. These Defendants held themselves out to the medical and lay communities generally, and to Plaintiff Mark Antony, in particular, as manufacturers, providers and sellers of medical devices, including pain pumps.
+Defendant I-Flow Corporation (“I-Flow”) is a Delaware corporation with its principal place of business at 20202 Windrow Drive, Lake Forest, California 92630. At all times relevant hereto, I-Flow was engaged in Maryland in the testing, manufacturing, labeling, marketing, distributing, promoting, and selling of pain pumps.
+Defendants DJO Incorporated (“DJO”) was at all times relevant hereto engaged in Maryland in the testing, manufacturing, labeling, marketing, distributing, promoting and selling of pain pumps.
+Defendant DJO Incorporated is a Delaware corporation with its principal place of business at 1430 Decision Street; Vista, California 92081. Defendant DJO is a resident and citizen of California.
+Defendant, Hospira, Inc. (“Hospira”) is a Delaware corporation with its principal place of business at 275 North Field Drive, Lake Forest, Illinois 60045. Defendant Hospira is a pharmaceutical company that researches, develops, manufactures and markets generic pharmaceutical products including, but not limited to bupivacaine, lidocaine, and carbocaine, with or without epinephrine. At all times relevant hereto, Hospira was engaged in Maryland in the testing, manufacturing, labeling, marketing, distributing, promoting, and selling of analgesics.
+Defendant, Abbott Laboratories (“Abbott”) is an Illinois corporation with its principal place of business at 100 Abbott Park Road, Abbott Park, Illinois 60064-3500. Defendant Abbott is a pharmaceutical company that researches, develops, manufactures and markets generic pharmaceutical products including, but not limited to marcaine, bupivacaine, lidocaine, and carbocaine, with or without epinephrine. At all times relevant hereto, Abbott was engaged in Maryland, in the testing, manufacturing, labeling, marketing, distributing, promoting, and selling analgesics.
+JURISDICTION AND VENUE (note to readers: forgive the renumbering from here)
+
+Jurisdiction is appropriate in the State of Maryland pursuant to Md. Cts.&Jud. Proc. §6-102 and §6-103(b)(1)-(6).
+Venue as to all claims is appropriate in Baltimore City, Maryland pursuant to Md. Cts.&Jud. Proc. §6-201(a) in that the Defendants carry on regular business, are employed, habitually engaged in a profession and/or have principal place of business in the State in Baltimore City, Maryland. Venue is also appropriate in Baltimore City, Maryland pursuant to §6-202(8), in that the cause of action arose in Baltimore City, Maryland.
+Damages are in excess of the required jurisdictional amount under Md. Cts.&Jud. Proc. § 3-2A-02.
+FACTUAL BACKGROUND
+Case Specific Facts
+
+Mark Antony was a teacher for the Baltimore City school system who suffered an on-the-job shoulder injury.
+Following medical evaluation, Mr. Antony underwent two routine shoulder surgeries to repair a labrum tear: one on January 1, 2000 and one on January 3, 2001. Both surgeries were performed by Tiberius Nero, M.D. Baltimore, Maryland. Immediately following each of the surgeries, Dr. Nero, an orthopedic surgeon, affixed to Antony’s shoulder an infusion “pain pump.”
+The pump used in the 2000 surgery was designed, manufactured, and marketed to Dr. Nero by Defendant I-Flow, and distributed and sold to him by Defendant DJO.
+The pump used in the 2001 surgery was also designed, manufactured, and marketed to Dr. Nero by Defendant I-Flow, and also distributed and sold to him by Defendant DJO Co.
+Mr. Antony’s pain pumps, through catheters emanating from the pumps and implanted under the skin and into the shoulder joint, injected a pain relieving drug directly into his shoulder on a continuous basis, for up to 48 hours or more following each of the surgeries.
+During both surgeries, the anesthetic is identified as Marcaine, which is a brand name owned by Hospira, Inc. and/or Abbott Laboratories.
+The continuous injection of these anesthetics over time directly into the shoulder, however, routinely causes serious and permanent damage to the cartilage of the shoulder joint. Plaintiff had pain pumps inserted during the surgical procedures, and received dangerous doses of continuously injected anesthetic in his shoulder. As a result, Mr. Antony suffered a narrowing of the joint space and/or a condition called "glenohumeral chondrolysis," which is the complete or nearly complete loss of cartilage in the shoulder joint, an irreversible, disabling, and extremely painful condition.
+As a result of his debilitating condition, which is permanent and life-long, Mr. Antony currently has and will continue to have difficulty doing the most basic tasks of everyday living. Mr. Antony has already undergone additional surgeries as a result of the narrowing of the joint space and/or chondrolysis caused by the dangerously defective pain pump and the anesthetics contained therein. He will require additional surgeries and treatment in the future. His daily life is consumed with the devastation of a destroyed shoulder and the prospects of a life of pain and medication.
+CAUSES OF ACTION
+COUNT I
+NEGLIGENCE
+
+Plaintiffs incorporate by reference all other paragraphs of this Complaint as if fully set forth herein.
+At all times relevant to this action, Defendants had a duty to exercise reasonable care, and to comply with the existing standards of care, in their preparation, design, research, development, manufacture, inspection, labeling, marketing, promotion and sale of the pain pumps and the anesthetics used in the pumps, which Defendants introduced into the stream of commerce, including a duty to ensure that users would not suffer from unreasonable, dangerous or untoward adverse side effects.
+At all times relevant to this action, Defendants had a duty to warn all health care providers and consumers of the risks, dangers, and adverse side effects of pain pumps and the anesthetics used in the pumps.
+At all times relevant to this action, Defendants knew or reasonably should have known that the pain pumps were unreasonably dangerous and defective when used as directed and as designed, including but not limited to the following particulars;
+Commonly used anesthetics likely to be used in pain pumps were harmful to human and animal articular cartilage and that toxicity to cartilage increased with the duration of exposure;
+Use of pain pumps with continuously injected anesthetic in the shoulder joint space had not been approved by the FDA, and in fact had been specifically rejected by the FDA;
+Continuous injection of anesthetic through a catheter, directly into the shoulder, for two days or more, had not been adequately tested for safety or effectiveness; and
+The risk of narrowing of the joint space, chondrolysis and other serious post-operative problems associated with using pain pumps with continuously injected anesthetic as designed and instructed outweighed the possible benefits of such use.
+Based on what they knew or reasonably should have known as described above, the Defendants deviated from principles of due care, deviated from the standard of care, and were otherwise negligent in one or more of the following particulars:
+In failing to conduct those tests and studies necessary to determine that the use of pain pumps directly into the shoulder joint was dangerous to shoulder cartilage and contraindicated for use;
+In failing to instruct or warn the medical community that the safety of the pain pump with continuously injected anesthetic had not been established for use in the shoulder;
+In failing to disclose to the medical community that continuous injection of commonly used anesthetics including but not limited to lidocaine, mepivicaine, or Marcaine, with or without epinephrine, into the shoulder, may cause serious and permanent injury to the joint cartilage;
+In failing to include a precaution against placing the catheter of the pain pump in the shoulder;
+In failing to provide to the medical community adequate instructions for the safe use of the devices with continuously injected anesthetics;
+In failing to disclose to the medical community that the effectiveness of pain pumps with continuously injected anesthetic was uncertain for use in the shoulder;
+Manufacturing a product to be used with continuously injected anesthetic, designed to directly inject into the shoulder commonly used anesthetics associated with damage to articular cartilage;
+Manufacturing a product designed to deliver, over time, dangerously high doses of medication directly into shoulder tissue; and
+Promoting pain pumps and continuously injected anesthetics for use in the shoulder joint space after the FDA had considered and rejected such an indication.
+At all relevant times, Defendants knew or reasonably should have known that the anesthetics used in the pain pumps were unreasonably dangerous and defective when used as directed and designed, including but not limited to the following particulars:
+Commonly used anesthetics likely to be used in pain pumps were harmful to human and animal articular cartilage;
+Use of pain pumps with continuously injected anesthetic in the shoulder joint space had not been approved by the FDA, and in fact had been specifically rejected by the FDA;
+Continuous injection of anesthetic through a catheter, directly into the shoulder had not been adequately tested for safety or effectiveness; and
+The risk of narrowing of the joint space, chondrolysis and other serious post-operative problems associated with using pain pumps with continuously injected anesthetic as designed and instructed outweighed the possible benefits of such use.
+The product defects alleged above were a substantial contributing cause of the injuries and damages suffered by Plaintiffs.
+The injuries and damages suffered by Plaintiffs were the reasonably foreseeable results of Defendants’ negligence.
+Had Defendants performed those tests and studies necessary to determine that pain pumps and their anesthetics should not be used directly in the shoulder before Mark Antony’s physician used pain pumps following his surgeries, Mr. Antony would not have developed chondrolysis and suffered the injuries and damages described with particularity, above.
+As a direct and proximate cause of the Defendants’ negligence, Plaintiff suffered the permanent loss of cartilage in his shoulder, resulting in severe pain and discomfort of the shoulder, loss of use and function of the shoulder and arm, and requiring multiple surgeries. Plaintiff will also require future medical care, including physical therapy, pain management, additional shoulder surgeries as he ages, including but not limited to, additional shoulder replacements. In addition, Plaintiff has suffered mental distress and anguish and has suffered permanent impairment of the use and function of his affected upper extremities, and other damages.WHEREFORE, Plaintiffs pray for judgment against Defendants, jointly and severally, for Ten Million Dollars ($10,000,000) compensatory damages, plus interest, costs and attorneys’ fees.
+COUNT II
+STRICT LIABILITY
+
+Plaintiff incorporates by reference all other paragraphs of this Complaint as if fully set forth herein.
+Plaintiff is in the class of persons that the Defendants should reasonably foresee as being subject to the harm caused by defectively designed pain pumps and the anesthetics used in the pumps insofar as Plaintiff Mark Antony was the type of person for whom the pumps and the anesthetics were intended to be used.
+Defendants, which are engaged in the business of selling the products, manufactured and supplied pain pumps and the anesthetics used in the pumps and placed them into the stream of commerce in a defective and unreasonably dangerous condition such that the foreseeable risks exceeded the benefits associated with the design and/or formulation of the products.
+The pain pumps and anesthetics supplied to Plaintiff were defective in design and formulation and unreasonably dangerous when they left the hands of Defendants, the manufacturers and suppliers, and they reached the user and consumer of the products, Plaintiff, without substantial alteration in the condition in which they were sold.
+The pain pump devices and the anesthetics used in the pumps manufactured by Defendants were unreasonable and dangerously defective beyond the extent contemplated by ordinary patients with ordinary knowledge regarding these products.
+Defendants’ pain pumps and anesthetics used in the pumps were defective due to inadequate warning and/or inadequate clinical trials, in vivo and in vitro testing and study, and inadequate reporting regarding the results of such studies.
+Defendants’ pain pumps and the anesthetics used in the pumps were defective due to inadequate post-marketing warning or instruction because, after Defendants knew or should have known of the risk of injury from their pain pumps and the anesthetics used in the pumps, they failed to provide adequate warnings to the medical community and patients, and continued to promote the products as safe and effective.
+The product defects alleged above were a substantial contributing cause of the injuries suffered by Plaintiff. Specifically, the pain pumps and the anesthetics used in the pumps caused Plaintiff to suffer the permanent loss of cartilage in his shoulder, resulting in severe pain and discomfort of the shoulder, loss of use and function of the shoulder and arm, and requiring multiple surgeries. The use of the pain pumps and continuously injected anesthetics also rendered the therapeutic benefit of his shoulder surgeries worthless and of no value. Plaintiff will also require future medical care, including additional shoulder surgeries, including but not limited to, shoulder replacement. In addition, Plaintiff has suffered mental distress and anguish and has suffered permanent impairment of the use and function of her affected upper extremities.
+As a direct and proximate cause of the Defendants’ negligence, Plaintiff suffered the permanent loss of cartilage in his shoulder, resulting in severe pain and discomfort of the shoulder, loss of use and function of the shoulder and arm, and requiring multiple surgeries. Plaintiff will also require future medical care, including physical therapy, pain management, additional shoulder surgeries as he ages, including but not limited to, additional shoulder replacements. In addition, Plaintiff has suffered lost wages and lost earning capacity, mental distress and anguish and has suffered permanent impairment of the use and function of his affected upper extremities, and other damages.
+WHEREFORE, Plaintiffs pray for judgment against Defendants, jointly and severally, for Ten Million Dollars ($10,000,000) compensatory damages, plus interest, costs and attorneys’ fees.
+COUNT III
+STRICT PRODUCTS LIABILITY:_FAILURE TO WARN
+
+Plaintiffs incorporate by reference all other paragraphs of this Complaint as if fully set forth herein.
+Defendants manufactured pain pumps and the anesthetics used in the pumps, and placed them into the stream of commerce in a defective and unreasonably dangerous condition such that the foreseeable risks exceeded the benefits associated with the design and/or formulation of the products.
+Defendants’ pain pumps and anesthetics used in the pumps were defective due to inadequate warning and/or inadequate clinical trials, in vivo and in vitro testing and study, and inadequate reporting regarding the results.
+Defendants’ pain pumps and anesthetics used in the pumps were defective due to inadequate post-marketing warning or instruction because, after Defendants knew or should have known of the risk of injury from their pain pumps and anesthetics used in the pumps, they failed to provide adequate warnings to the medical community and patients, and continued to promote the pain pumps and anesthetics used in the pumps as safe and effective.
+The defective warnings and labeling on the pain pumps and anesthetics used in the pumps were substantial factors in bringing about the injuries to the Plaintiff.
+As the direct and proximate cause of the defective condition of pain pumps and anesthetics used in the pumps as manufactured and/or supplied by Defendants, and specifically their failure to warn, and their negligence, carelessness, other wrongdoing and actions described herein, Plaintiff suffered those injuries and damages as described with particularity, above.
+As a direct and proximate cause of the Defendants’ negligence, Plaintiff suffered the permanent loss of cartilage in his shoulder, resulting in severe pain and discomfort of the shoulder, loss of use and function of the shoulder and arm, and requiring multiple surgeries. Plaintiff will also require future medical care, including physical therapy, pain management, additional shoulder surgeries as he ages, including but not limited to, additional shoulder replacements. In addition, Plaintiff has suffered lost wages and lost earning capacity, mental distress and anguish and has suffered permanent impairment of the use and function of his affected upper extremities, and other damages.
+WHEREFORE, Plaintiffs pray for judgment against Defendants, jointly and severally, for Ten Million Dollars ($10,000,000) compensatory damages, plus interest, costs and attorneys’ fees.
+COUNT IV
+LOSS OF CONSORTIUM
+
+Plaintiffs incorporate by reference all other paragraphs of this Complaint as if fully set forth herein.
+Plaintiff, Cleo Antony, was at all times relevant hereto, and now, the spouse of Plaintiff Mark Antony, and lived and cohabited with him.
+Cleo Antony has been caused, presently and in the future, to suffer the loss of her spouse’s companionship, services, society and the ability of Mr. Antony, has in those respects been impaired and depreciated, and the marital association between husband and wife has been altered and impaired.WHEREFORE, Plaintiffs pray for judgment against Defendants, jointly and severally, for Ten Million Dollars ($10,000,000) compensatory damages, plus interest, costs and attorneys’ fees.
+DATED: ____ ____, 2009 Respectfully submitted,
+By: _______________
+Ronald V. Miller
+John J. Cord
+Miller & Zois, LLC
+1 South St, #2450
+Baltimore, MD 21202
+(410) 779-4600
+(410) 760-8922 (Fax)
+
+Attorneys for Plaintiffs
+
+Petty, D.H. et al., Glenohumeral Chondrolysis After Shoulder Arthroscopy, Am. J. Sports Med. 32:(2)509 (2004).
